@@ -248,7 +248,7 @@ img {
     font-family: consolas, Menlo, monospace;
     background: #f7f7f7;
     color: #4d4d4c;
-    line-height: 1.2rem;
+    line-height: 1.5;
     margin: 1rem auto 1rem;
 }
 .off-canvas-content .book-content .gutter {
